@@ -41,7 +41,7 @@ heart_disease_predictor/
 │── scaler.pkl           # Trained scaler
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
-└── data/                # (Optional) dataset or preprocessing files
+|__ kaggle dataset       # dataset 
 ```
 
 ---
